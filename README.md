@@ -33,6 +33,7 @@ To compile:
 ```bash
 g++ -std=c++11 -O2 main.cpp -o neural_net
 ./FNN2
+
 ```
 
 ##🧠 Neural Network Architecture
