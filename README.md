@@ -36,17 +36,17 @@ g++ -std=c++11 -O2 main.cpp -o neural_net
 
 ```
 
-##🧠 Neural Network Architecture
+## 🧠 Neural Network Architecture
 - Input Layer: 2 neurons (x, y)
 - Hidden Layer 1: 8 neurons (ReLU)
 - Hidden Layer 2: 4 neurons (ReLU)
 - Output Layer: 1 neuron (Sigmoid, binary classification)
 
-##🧪 What It Does
+## 🧪 What It Does
 It generates 1000 random 2D points between [-2, 2]. The network learns to classify whether these points lie inside a unit circle centered at the origin.
 
 
-##✅ Training Output 
+## ✅ Training Output 
 ```
 EPOCH : 0  MSE : 0.117818
 EPOCH : 100  MSE : 0.0111259
@@ -60,7 +60,7 @@ EPOCH : 800  MSE : 0.00266525
 EPOCH : 900  MSE : 0.00246457
 
 ```
-##📊 Test Output
+## 📊 Test Output
 
 ```
  Test Results (1 = inside , 0 = outside) :
@@ -71,7 +71,7 @@ EPOCH : 900  MSE : 0.00246457
 
 ```
 
-##📁 Project Structure
+## 📁 Project Structure
 ```
 FNN2.cpp
 FNN2.exe
