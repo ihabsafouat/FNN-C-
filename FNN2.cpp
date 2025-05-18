@@ -1,4 +1,4 @@
-//#auther : @rebwar_ai
+//#auther : @ihabsafouat
 #include <iostream>
 #include <vector>
 #include <cmath>
